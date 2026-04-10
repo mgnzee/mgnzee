@@ -21,7 +21,7 @@ I am currently focusing on exploring Spring Framework and Database managament.
 ---
 
 My current tech stack:
-1. Java 17
+1. Java 25
 2. Spring (Boot, MVC, Data JPA)
 3. Docker
 4. Linux (Debian my beloved) 🐧
